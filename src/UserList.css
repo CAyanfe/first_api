@@ -1,0 +1,16 @@
+/* UserList.css */
+
+.list-group-item {
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #09ca66;
+}
+
+.list-group-item h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+/* Add more styles as needed */
